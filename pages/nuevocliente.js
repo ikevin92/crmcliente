@@ -45,7 +45,7 @@ const NuevoCliente = () => {
         update(cache, { data: { nuevoCliente } }) {
             //obtener el objeto de cache
             const { obtenerClientesVendedor } = cache.readQuery({
-                query:  OBTENER_CLIENTES_USUARIO ,
+                query:  OBTENER_CLIENTES_USUARIO,
             });
 
             // Reescribimos el cache (el cache no se debe modificar)
