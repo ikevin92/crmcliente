@@ -1,0 +1,49 @@
+npx create-next-app crmcliente
+
+crear carpeta components
+
+Layout: 
+https://cdnjs.com/libraries/normalize
+https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css
+
+framework boots
+https://tailwindcss.com/docs/installation/
+
+
+VALIDACIONES:
+https://github.com/jquense/yup
+npm i formik yup
+
+APOLLO
+npm i @apollo/client node-fetch graphql
+-> creamos config
+crear _app.js
+
+npm i apollo-link-context
+
+
+/// OJO MIRA LA PAGINA
+npm install apollo-boost @apollo/react-hooks graphql  
+
+https://www.youtube.com/watch?v=U86hn1HmuFU
+
+
+//ICONOS 
+https://heroicons.dev/
+
+//SWEET ALERT
+
+
+//REACT SELECT
+npm i react-select
+
+
+// OJO DEBEMOS DE CREAR CONTEXT carpeta PARA EL REDUCER
+tambie debemos crear la carpeta types
+luego que hacemos todas las clases se deben importar en clase _app.js
+
+
+
+/// PARA LAS GRAFICAS 
+https://recharts.org/en-US/
+npm i recharts  
